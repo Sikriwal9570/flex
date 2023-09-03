@@ -1,0 +1,17 @@
+.item{
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+}
+.item-1{
+    background-color: brown;
+}
+.item-2{
+    background-color: rgb(69, 207, 27);
+}
+.item-3{
+    background-color: rgb(113, 33, 187);
+}
+.item-4{
+    background-color: brown;
+}
